@@ -8,7 +8,7 @@ from zope.interface import Interface
 # Lock types, including the default
 
 # Timeouts are expressed in minutes
-DEFAULT_TIMEOUT = 10
+DEFAULT_TIMEOUT = 90
 MAX_TIMEOUT = ((2**32) - 1) // 60
 
 
