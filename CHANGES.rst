@@ -8,6 +8,15 @@ Changelog
 
 .. towncrier release notes start
 
+4.0.0.post0 (2026-05-19)
+------------------------
+
+Bug fixes:
+
+
+- Increase lock timeout from 10 to 90 minutes @gforcada
+
+
 4.0.0 (2026-05-16)
 ------------------
 
